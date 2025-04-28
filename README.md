@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/sshtunnelvision-mcp-logo-gen)
+
 # MCP Tool Server for Logo Generation
 
 This server provides logo generation capabilities using FAL AI, with tools for image generation, background removal, and automatic scaling.
